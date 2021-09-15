@@ -1,2 +1,4 @@
-# seb.greefkens-github.io
-https://sehbie.github.io/seb.greefkens-github.io/
+# Will's Wacky website - static version
+## Personal website for fork testing
+
+Fork, download and destroy
